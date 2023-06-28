@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FKSUM"]
 	path = FKSUM
 	url = https://github.com/cran/FKSUM
-	shallow = true
-	registered = true
 [submodule "PPCI"]
 	path = PPCI
 	url = https://github.com/davidhofmeyr/ppci
-	shallow = true
-	registered = true
